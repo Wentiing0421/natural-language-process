@@ -1,0 +1,295 @@
+m1-1+AND+foreign+kidnapping
+m1-2+AND+foreign+hijack
+m1-3+AND+foreign+kidnap
+m1-4+AND+foreign+arrest+executive
+m1-5+AND+foreign+arrested+executive
+m1-6+AND+foreign+arresting+executive
+m1-7+AND+foreign+imprisoned executive
+m1-8+AND+multinational+kidnapping
+m1-9+AND+multinational+hijack
+m1-10+AND+multinational+kidnap
+m1-11+AND+multinational+arrest+executive
+m1-12+AND+multinational+arrested+executive
+m1-13+AND+multinational+arresting+executive
+m1-14+AND+multinational+imprisoned executive
+m1-15+AND+transnational+kidnapping
+m1-16+AND+transnational+hijack
+m1-17+AND+transnational+kidnap
+m1-18+AND+transnational+arrest+executive
+m1-19+AND+transnational+arrested+executive
+m1-20+AND+transnational+arresting+executive
+m1-21+AND+transnational+imprisoned executive
+m2-1+AND+foreign+boycott
+m2-2+AND+foreign+boycotting
+m2-3+AND+foreign+sabotage
+m2-4+AND+foreign+damage to property
+m2-5+AND+foreign+damage to operations
+m2-6+AND+foreign+loss of property
+m2-7+AND+foreign+property loss
+m2-8+AND+foreign+bomb
+m2-9+AND+foreign+attack
+m2-10+AND+multinational+boycott
+m2-11+AND+multinational+boycotting
+m2-12+AND+multinational+sabotage
+m2-13+AND+multinational+damage to property
+m2-14+AND+multinational+damage to operations
+m2-15+AND+multinational+loss of property
+m2-16+AND+multinational+property loss
+m2-17+AND+multinational+bomb
+m2-18+AND+multinational+attackm2-19+AND+transnational+boycott
+m2-20+AND+transnational+boycotting
+m2-21+AND+transnational+sabotage
+m2-22+AND+transnational+damage to property
+m2-23+AND+transnational+damage to operations
+m2-24+AND+transnational+loss of property
+m2-25+AND+transnational+property loss
+m2-26+AND+transnational+bomb
+m2-27+AND+transnational+attack
+m3-1+AND+foreign+corruption
+m3-2+AND+multinational+corruption
+m3-3+AND+transnational+corruption
+ 
+
+m4-1+TEXT+mass labor strikes
+m4-2+TEXT+mass labour strikes
+m4-3+TEXT+general strike
+m4-4+TEXT+social unrest
+m4-5+TEXT+ethnic conflict
+m4-6+TEXT+ethnic violence
+m4-7+TEXT+civil strife
+m4-8+TEXT+ethnic strife
+m4-9+TEXT+ethnic cleansing
+m4-10+TEXT+ethnic eradication
+m4-11+TEXT+genocide
+m4-12+TEXT+riot
+m4-13+TEXT+tear gas
+m4-14+TEXT+water canon
+m4-15+TEXT+mass protest 
+m5-1+AND+war+civil
+m5-2+AND+war+military
+m5-3+TEXT+military conflict
+m5-4+TEXT+coup d'etat
+m5-5+TEXT+palace revolution
+m5-6+TEXT+military conflict
+m5-7+TEXT+military coup
+m5-8+TEXT+military overthrow
+m5-9+TEXT+military plot
+m5-10+TEXT+military combat
+m5-11+TEXT+military barrage
+m5-12+TEXT+military takeover
+m5-13+TEXT+military raid
+m5-14+AND+bombard+civilians
+m5-15+TEXT+IED
+m5-16+TEXT+improvised explosive device
+m5-17+AND+bloodshed+civilians
+m5-18+AND+massacre+civilians
+m5-19+AND+slaughter+civilians
+m5-20+TEXT+junta
+m5-21+TEXT+dictator
+m5-22+TEXT+dictatorship
+m5-23+TEXT+putsch
+m5-24+TEXT+military coup
+m5-25+TEXT+military overthrow
+m5-26+TEXT+military plot
+m5-27+TEXT+regime change
+m5-28+AND+overthrow+government
+m5-29+TEXT+weapons of mass destruction
+m5-30+TEXT+WMD
+m6-1+TEXT+terrorism
+m6-2+TEXT+terrorist
+m6-3+TEXT+rebellion
+m6-4+TEXT+revolution
+m6-5+TEXT+revolt
+m6-6+TEXT+occupation forces
+m6-7+TEXT+hijack
+m6-8+TEXT+guerrilla
+m6-9+TEXT+jihadist
+m6-10+TEXT+suicide bomber
+m6-11+TEXT+suicide vest
+m6-12+TEXT+roadside bomb
+m6-13+TEXT+roadside explosive
+m6-14+TEXT+molotov cocktail
+
+m7-1+TEXT+Currency converion
+
+m7-2+TEXT+Currency inconvertibility
+
+m7-3+TEXT+Currency regulation
+
+m7-4+TEXT+FX converion
+
+m7-5+TEXT+FX inconvertibility
+
+m7-6+TEXT+FX regulation
+
+m7-7+TEXT+Exchange rate converion
+
+m7-8+TEXT+Exchange rate inconvertibility
+
+m7-9+TEXT+Exchange rate regulation
+
+m7-10+TEXT+Exchange inconvertibility
+
+m7-11+AND+Governent+Foreign+inconvertibility
+
+m7-12+AND+Governent+Foreign+export tax
+m7-13+AND+Governent+multinational+inconvertibility
+m7-14+AND+Governent+multinational+export tax
+m7-15+AND+Governent+transnational+inconvertibility
+m7-16+AND+Governent+transnational+export tax
+
+m8-1+AND+Governent+Foreign+Discriinatory regulation
+
+m8-2+AND+Governent+Foreign+Breach of contract
+
+m8-3+AND+Governent+Foreign+Reneging+contract
+
+m8-4+AND+Governent+Foreign+Reneging+agreement
+
+m8-5+AND+Governent+Foreign+Renege+contract
+
+m8-6+AND+Governent+Foreign+Renege+agreement
+
+m8-7+AND+Governent+Foreign+abrogate+contract
+
+m8-8+AND+Governent+Foreign+abrogate+agreement
+
+m8-9+AND+Governent+Foreign+abrogating+contract
+
+m8-10+AND+Governent+Foreign+abrogating+agreement
+
+m8-11+AND+Governent+Foreign+Renegotiating ters
+
+m8-12+AND+Governent+Foreign+tax payents+dispute
+
+m8-13+AND+Governent+Foreign+coersion+contract
+
+m8-14+AND+Governent+Foreign+coersion+agreement
+
+m8-15+AND+Governent+Foreign+License+cancellation
+
+m8-16+AND+Governent+Foreign+License+revocation
+
+m8-17+AND+Governent+Foreign+permit+cancellation
+
+m8-18+AND+Governent+Foreign+perit+revocation
+
+m8-19+AND+Governent+Foreign+impairment
+
+m8-20+AND+Governent+Foreign+BIT
+
+m8-21+AND+Governent+Foreign+Bilateral Investment Treat*
+
+m8-22+AND+Governent+Foreign+arbitration
+m8-23+AND+Governent+multinational+Discriinatory regulation
+m8-24+AND+Governent+multinational+Breach of contract
+m8-25+AND+Governent+multinational+Reneging+contract
+m8-26+AND+Governent+multinational+Reneging+agreement
+m8-27+AND+Governent+multinational+Renege+contract
+m8-28+AND+Governent+multinational+Renege+agreement
+m8-29+AND+Governent+multinational+abrogate+contract
+m8-30+AND+Governent+multinational+abrogate+agreement
+m8-31+AND+Governent+multinational+abrogating+contract
+m8-32+AND+Governent+multinational+abrogating+agreement
+m8-33+AND+Governent+multinational+Renegotiating ters
+m8-34+AND+Governent+multinational+tax payents+dispute
+m8-35+AND+Governent+multinational+coersion+contract
+m8-36+AND+Governent+multinational+coersion+agreement
+m8-37+AND+Governent+multinational+License+cancellation
+m8-38+AND+Governent+multinational+License+revocation
+m8-39+AND+Governent+multinational+permit+cancellation
+m8-40+AND+Governent+multinational+perit+revocation
+m8-41+AND+Governent+multinational+impairment
+m8-42+AND+Governent+multinational+BIT
+m8-43+AND+Governent+multinational+Bilateral Investment Treat*
+m8-44+AND+Governent+multinational+arbitration
+m8-45+AND+Governent+transnational+Discriinatory regulation
+m8-46+AND+Governent+transnational+Breach of contract
+m8-47+AND+Governent+transnational+Reneging+contract
+m8-48+AND+Governent+transnational+Reneging+agreement
+m8-49+AND+Governent+transnational+Renege+contract
+m8-50+AND+Governent+transnational+Renege+agreement
+m8-51+AND+Governent+transnational+abrogate+contract
+m8-52+AND+Governent+transnational+abrogate+agreement
+m8-53+AND+Governent+transnational+abrogating+contract
+m8-54+AND+Governent+transnational+abrogating+agreement
+m8-55+AND+Governent+transnational+Renegotiating ters
+m8-56+AND+Governent+transnational+tax payents+dispute
+m8-57+AND+Governent+transnational+coersion+contract
+m8-58+AND+Governent+transnational+coersion+agreement
+m8-59+AND+Governent+transnational+License+cancellation
+m8-60+AND+Governent+transnational+License+revocation
+m8-61+AND+Governent+transnational+permit+cancellation
+m8-62+AND+Governent+transnational+perit+revocation
+m8-63+AND+Governent+transnational+impairment
+m8-64+AND+Governent+transnational+BIT
+m8-65+AND+Governent+transnational+Bilateral Investment Treat*
+m8-66+AND+Governent+transnational+arbitration
+
+m9-1+AND+Governent+Foreign+Nationalization
+
+m9-2+AND+Governent+Foreign+Nationalisation
+
+m9-3+AND+Governent+Foreign+Expropriation
+
+m9-4+AND+Governent+Foreign+expropriate
+
+m9-5+AND+Governent+Foreign+restriction+repatriation
+
+m9-6+AND+Governent+Foreign+limits on remittances
+
+m9-7+AND+Governent+Foreign+discriminatory taxation
+
+m9-8+AND+Governent+Foreign+Violence
+
+m9-9+AND+Governent+Foreign+interference with operations
+
+m9-10+AND+Governent+Foreign+Confiscation
+
+m9-11+AND+Governent+Foreign+Confiscate
+
+m9-12+AND+Governent+Foreign+Confiscating
+
+m9-13+AND+Governent+Foreign+Diversion
+
+m9-14+AND+Governent+Foreign+active blockage
+
+m9-15+AND+Governent+Foreign+commandeer
+
+m9-16+AND+Governent+Foreign+seizure
+
+m9-17+AND+Governent+Foreign+passive blockage
+m9-18+AND+Governent+multinational+Nationalization
+m9-19+AND+Governent+multinational+Nationalisation
+m9-20+AND+Governent+multinational+Expropriation
+m9-21+AND+Governent+multinational+expropriate
+m9-22+AND+Governent+multinational+restriction+repatriation
+m9-23+AND+Governent+multinational+limits on remittances
+m9-24+AND+Governent+multinational+discriminatory taxation
+m9-25+AND+Governent+multinational+Violence
+m9-26+AND+Governent+multinational+interference with operations
+m9-27+AND+Governent+multinational+Confiscation
+m9-28+AND+Governent+multinational+Confiscate
+m9-29+AND+Governent+multinational+Confiscating
+m9-30+AND+Governent+multinational+Diversion
+m9-31+AND+Governent+multinational+active blockage
+m9-32+AND+Governent+multinational+commandeer
+m9-33+AND+Governent+multinational+seizure
+m9-34+AND+Governent+multinational+passive blockage
+m9-35+AND+Governent+transnational+Nationalization
+m9-36+AND+Governent+transnational+Nationalisation
+m9-37+AND+Governent+transnational+Expropriation
+m9-38+AND+Governent+transnational+expropriate
+m9-39+AND+Governent+transnational+restriction+repatriation
+m9-40+AND+Governent+transnational+limits on remittances
+m9-41+AND+Governent+transnational+discriminatory taxation
+m9-42+AND+Governent+transnational+Violence
+m9-43+AND+Governent+transnational+interference with operations
+m9-44+AND+Governent+transnational+Confiscation
+m9-45+AND+Governent+transnational+Confiscate
+m9-46+AND+Governent+transnational+Confiscating
+m9-47+AND+Governent+transnational+Diversion
+m9-48+AND+Governent+transnational+active blockage
+m9-49+AND+Governent+transnational+commandeer
+m9-50+AND+Governent+transnational+seizure
+m9-51+AND+Governent+transnational+passive blockage

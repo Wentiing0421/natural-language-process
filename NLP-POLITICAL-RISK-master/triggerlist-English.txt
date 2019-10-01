@@ -1,0 +1,56 @@
+//1-A
+s1+TEXT+Currency conversion
+s2+TEXT+Currency inconvertibility
+s3+TEXT+Currency regulation
+s4+TEXT+Exchange inconvertibility
+//s5+TEXT+Energy
+//s6+TEXT+Development
+
+// C1 = Government
+// C2 = Foreign
+
+m1+AND+Government+Foreign+inconvertibility
+m2+AND+Government+Foreign+export tax
+//1-B
+m3+AND+Government+Foreign+Discriminatory regulation
+m4+AND+Government+Foreign+Breach of contract
+m5+AND+Government+Foreign+Reneging+contract
+m6+AND+Government+Foreign+Reneging+agreement
+m7+AND+Government+Foreign+Renege+contract
+m8+AND+Government+Foreign+Renege+agreement
+m9+AND+Government+Foreign+abrogate+contract
+m10+AND+Government+Foreign+abrogate+agreement
+m11+AND+Government+Foreign+abrogating+contract
+m12+AND+Government+Foreign+abrogating+agreement
+m13+AND+Government+Foreign+Renegotiating terms
+m14+AND+Government+Foreign+tax payments+dispute
+m15+AND+Government+Foreign+coersion+contract
+m16+AND+Government+Foreign+coersion+agreement
+
+m17+AND+Government+Foreign+License+cancellation
+m18+AND+Government+Foreign+License+revocation
+m19+AND+Government+Foreign+permit+cancellation
+m20+AND+Government+Foreign+permit+revocation
+
+m21+AND+Government+Foreign+impairment
+m22+AND+Government+Foreign+BIT
+m23+AND+Government+Foreign+Bilateral Investment Treat*
+m24+AND+Government+Foreign+arbitration
+//1-C
+m25+AND+Government+Foreign+Nationalization
+m26+AND+Government+Foreign+Nationalisation
+m27+AND+Government+Foreign+Expropriation
+m28+AND+Government+Foreign+expropriate
+m29+AND+Government+Foreign+restriction+repatriation
+m30+AND+Government+Foreign+limits on remittances
+m31+AND+Government+Foreign+discriminatory taxation
+m32+AND+Government+Foreign+Violence
+m33+AND+Government+Foreign+interference with operations
+m34+AND+Government+Foreign+Confiscation
+m35+AND+Government+Foreign+Confiscate
+m36+AND+Government+Foreign+Confiscating
+m37+AND+Government+Foreign+Diversion
+m38+AND+Government+Foreign+active blockage
+m39+AND+Government+Foreign+commandeer
+m40+AND+Government+Foreign+seizure
+m41+AND+Government+Foreign+passive blockage
